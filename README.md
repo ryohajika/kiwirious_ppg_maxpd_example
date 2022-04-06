@@ -2,6 +2,7 @@
 
 ## what you need
 - kiwirious PPG sensor
+
 that's it!
 
 ## MaxMSP example
@@ -27,11 +28,11 @@ Once you open the patch, you can click the button on the top part of the patch s
 You will soon start to see the four plot boxes in the bottom half of the patch start plotting the incoming signal. when you see the amplitude of the signal in the plot is not enough or invisible, you can click the box button on the top right hand side to let the patch learn the auto signal scaling range. After sometime, you will start to see the plot will be adjusted to the incoming signal and will be able to see a clear signal.
 
 ### tested platforms, developer, license
-- Platforms
+- Platforms:
 macOS 12.3, MaxMSP 8.2.2, Pd0.52-2
 
-- developer
+- developer:
 Ryo Hajika (Empathic Computing Laboratory, The University of Auckland / Research Unit "imaginaryShort")
 
-- Licence
+- Licence:
 TBD
